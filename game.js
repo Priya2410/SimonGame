@@ -81,5 +81,5 @@ function startOver()
     level=0;
     gamePattern=[];
     num=false;
-    location.reload(true);
+   //  location.reload(true);
 }
